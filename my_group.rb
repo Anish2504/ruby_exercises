@@ -13,10 +13,3 @@
  => {:name=>"Manish", :age=>32, :gender=>"male"} 
 2.6.3 :013 > person_3 = {name:'Manisha',age: 30, gender:'female'}
  => {:name=>"Manisha", :age=>30, :gender=>"female"} 
-2.6.3 :014 > my_group.push 'person_1'
- => ["person_1", "person_2", "person_3", "person_1"] 
-2.6.3 :015 > my_group.pop
- => "person_1" 
-2.6.3 :016 > my_group
- => ["person_1", "person_2", "person_3"] 
-2.6.3 :017 > 
